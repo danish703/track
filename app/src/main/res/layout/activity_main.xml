@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="np.com.rajanaryal.pari.MainActivity">
+
+        <Button
+            android:id="@+id/Trackme"
+            android:layout_width="174dp"
+            android:layout_height="80dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignTop="@+id/Addme"
+            android:layout_marginStart="20dp"
+            android:text="Tracker"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="128dp" />
+
+        <Button
+            android:id="@+id/Addme"
+            android:layout_width="170dp"
+            android:layout_height="80dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="136dp"
+            android:text="Victim" />
+
+        <Button
+            android:id="@+id/aboutus"
+            android:layout_width="158dp"
+            android:layout_height="71dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginBottom="202dp"
+            android:layout_marginEnd="15dp"
+            android:text="About us"
+            tools:layout_editor_absoluteX="30dp"
+            tools:layout_editor_absoluteY="257dp" />
+
+        <Button
+            android:id="@+id/faq"
+            android:layout_width="151dp"
+            android:layout_height="69dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignTop="@+id/aboutus"
+            android:layout_marginStart="30dp"
+            android:text="FAQ'S"
+            tools:layout_editor_absoluteX="225dp"
+            tools:layout_editor_absoluteY="257dp" />
+
+        <Button
+            android:id="@+id/exit"
+            android:layout_width="159dp"
+            android:layout_height="76dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginBottom="96dp"
+            android:layout_marginEnd="102dp"
+            android:text="Exit"
+            tools:layout_editor_absoluteX="236dp"
+            tools:layout_editor_absoluteY="783dp" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="338dp"
+            android:layout_height="60dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignStart="@+id/faq"
+            android:layout_marginTop="27dp"
+            android:text="Welcome to Friends and family gps tracker app" />
+
+
+</RelativeLayout>
+
+
+
+

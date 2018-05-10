@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1068546765443",
+    "firebase_url": "https://pari-89043.firebaseio.com",
+    "project_id": "pari-89043",
+    "storage_bucket": "pari-89043.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068546765443:android:5938725afb2f3cb8",
+        "android_client_info": {
+          "package_name": "np.com.rajanaryal.pari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068546765443-cuphofcgbv5f1t8v31u4sekfal7rbem5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "np.com.rajanaryal.pari",
+            "certificate_hash": "86607ebb14d14af6f1b467e1951fde82821f725f"
+          }
+        },
+        {
+          "client_id": "1068546765443-8idjodhs2ce8ed33j9qjm50cmf134cio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyMxxbDV7Z_zm-sFbBTF5wALUFegS1zoA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068546765443-8idjodhs2ce8ed33j9qjm50cmf134cio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
